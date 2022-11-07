@@ -30,6 +30,7 @@ public class Quest {
 		System.out.println(ch);
 		*/
 		
+		
 	}
 
 }
